@@ -1,1 +1,3 @@
-# busqueda-del-tesoro
+# Busqueda del Tesoro
+
+Una app para jugar a la busqueda del tesoro.
